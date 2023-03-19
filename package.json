@@ -1,5 +1,5 @@
 {
-  "homepage": "http://123lanix.github.io/First-React-Deployment-Sayson",
+  "homepage": "https://123lanix.github.io/First-React-Deployment-Sayson",
   "name": "wd34p-exercise31-sayson",
   "version": "0.1.0",
   "private": true,
@@ -41,6 +41,7 @@
   },
   "devDependencies": {
     "gh": "^2.8.9",
+    "gh-pages": "^5.0.0",
     "pages": "^0.0.16"
   }
 }
